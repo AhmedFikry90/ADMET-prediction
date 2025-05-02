@@ -1,0 +1,5 @@
+smiles,logP,logS,bbb_prob,herg_prob,bioavailability
+CC(=O)OC1=CC=CC=C1C(=O)O,1.56,-2.74,0.287,0.316,0.53
+CCOC(=O)C1=CC=CC=C1,3.76,-6.00,0.087,0.570,0.25
+CC1=CC(=O)C2=CC=CC=C2C1=O,7.69,-10.4,0.934,0.857,0.15
+C1=CC=C(C=C1)CC(=O)O,5.96,-7.09,0.987,0.829,0.10
